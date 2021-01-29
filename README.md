@@ -2,9 +2,10 @@
 This cheat is heavily pasted. Here is the Proof.
 
 They also Discord token grab all their users. Proof:
-https://cdn.discordapp.com/attachments/770369564965208074/804573956480696370/unknown.png
-https://cdn.discordapp.com/attachments/803476207819554816/804569230116388904/unknown.png
 
+
+![alt text](https://cdn.discordapp.com/attachments/770369564965208074/804573956480696370/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/803476207819554816/804569230116388904/unknown.png)
 
 
 
