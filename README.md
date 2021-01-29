@@ -10,7 +10,7 @@ They also Discord token grab all their users. Proof:
 
 
 
-They exit scammed today: https://cdn.discordapp.com/attachments/801933974318481458/804563338486218812/image0.png
+They exit scammed today: ![alt text](https://cdn.discordapp.com/attachments/801933974318481458/804563338486218812/image0.png) 
 
 
 Link:
