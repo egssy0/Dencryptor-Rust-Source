@@ -1,5 +1,9 @@
 # Dencryptor-Rust-Source
-This cheat is heavily pasted. Here is the Proof.
+This cheat is heavily pasted.
+
+DC TAGS OF THESE PASTERS: 
+Unknowņ#0001
+devinacer#8459
 
 They also Discord token grab all their users. Proof:
 
