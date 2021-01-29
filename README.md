@@ -1,6 +1,8 @@
 # Dencryptor-Rust-Source
 This cheat is heavily pasted.
 
+EDIT: THEIR IMGUI MENU IS NOT INCLUDED. Devin added his own imgui menu after i gave him the source. I do not have that code.
+
 DC TAGS OF THESE PASTERS: 
 Unknowņ#0001
 devinacer#8459
