@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="driver">
+      <UniqueIdentifier>{a8f4bc75-d59b-4f49-86f9-b447175ec754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameSDK">
+      <UniqueIdentifier>{addaf9d0-7c93-4f0a-8008-3604f39ba035}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Funct">
+      <UniqueIdentifier>{a5d70363-f1c6-45fb-87c0-802016327109}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Overlay">
+      <UniqueIdentifier>{3e853b0a-d510-43ba-83fb-0d34605c7e61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MinHook">
+      <UniqueIdentifier>{76b805f8-395c-424f-98c3-e56ea4028776}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MinHook\HDE">
+      <UniqueIdentifier>{0fcd982c-9dee-4082-b11b-0e0ea7b67ac7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="cDirectX.cpp">
+      <Filter>Overlay</Filter>
+    </ClCompile>
+    <ClCompile Include="cDrawing.cpp">
+      <Filter>Overlay</Filter>
+    </ClCompile>
+    <ClCompile Include="MinHook\buffer.c">
+      <Filter>MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="MinHook\hook.c">
+      <Filter>MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="MinHook\trampoline.c">
+      <Filter>MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="MinHook\HDE\hde32.c">
+      <Filter>MinHook\HDE</Filter>
+    </ClCompile>
+    <ClCompile Include="MinHook\HDE\hde64.c">
+      <Filter>MinHook\HDE</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConsoleModded.h" />
+    <ClInclude Include="BasePlayer.h">
+      <Filter>GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h" />
+    <ClInclude Include="Vars.h" />
+    <ClInclude Include="Weapon.h">
+      <Filter>Funct</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponsData.h">
+      <Filter>GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="MiscFuncs.h">
+      <Filter>Funct</Filter>
+    </ClInclude>
+    <ClInclude Include="Aim.h">
+      <Filter>Funct</Filter>
+    </ClInclude>
+    <ClInclude Include="hDirectX.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="hDrawing.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="hMain.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook.h" />
+    <ClInclude Include="MinHook.h" />
+    <ClInclude Include="MinHook\trampoline.h">
+      <Filter>MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="MinHook\buffer.h">
+      <Filter>MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="MinHook\HDE\table32.h">
+      <Filter>MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="MinHook\HDE\table64.h">
+      <Filter>MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="MinHook\HDE\hde32.h">
+      <Filter>MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="MinHook\HDE\hde64.h">
+      <Filter>MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="MinHook\HDE\pstdint.h">
+      <Filter>MinHook\HDE</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
